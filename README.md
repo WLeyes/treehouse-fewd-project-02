@@ -1,2 +1,2 @@
 # treehouse-project2
-https://wleyes.github.io/treehouse-project2/<br>
+https://wleyes.github.io/treehouse-fewd-project-02/<br>
